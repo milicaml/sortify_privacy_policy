@@ -4,76 +4,76 @@
 
 ## Introduction
 
-This Privacy Policy describes how Sortify ("we", "our", or "us") collects, uses, and shares information about you when you use our mobile application (the "App").
+This Privacy Policy describes how Sortify ("we", "our", or "us") handles information when you use our mobile image organizing application (the "App").
 
-By using the App, you agree to the collection and use of information in accordance with this Privacy Policy.
+Sortify is an image mobile application for organizing and managing images on your Android device. The app uses React Native and Android MediaStore for image access and management, supporting filtering, sorting, and session persistence features.
+
+By using the App, you agree to the practices described in this Privacy Policy.
 
 ## Information We Collect
 
 ### Personal Information
-We may collect the following types of personal information:
-- Account information (if you create an account)
-- User-generated content
-- Device information (device type, operating system, unique device identifiers)
-- Usage data and analytics
+Sortify does NOT collect, store, or transmit any personal information or user data to external servers. We do not require user accounts or any form of registration.
 
-### Automatically Collected Information
-When you use our App, we may automatically collect:
-- Log data (IP address, browser type, pages visited)
-- Device information
-- Usage statistics
-- Crash reports and performance data
+### Local Data Storage
+The app stores the following information locally on your device only:
+- User preferences and app settings
+- Session data for continuity of your organizing work
+- Statistics and progress tracking related to your image organization activities
 
-## How We Use Your Information
+This data never leaves your device and is not transmitted to us or any third parties.
 
-We use the collected information for the following purposes:
-- To provide and maintain our App
-- To improve user experience
-- To analyze usage patterns and trends
-- To detect, prevent, and address technical issues
-- To send you notifications and updates (with your consent)
-- To comply with legal obligations
+## Permissions
+
+The app requires the following Android permissions to function:
+- **Read Media Images:** To access and display images from your device's gallery
+- **Storage Access:** To organize and manage your images using Android MediaStore
+
+These permissions are used solely for the core functionality of organizing and managing your images on your device. No data accessed through these permissions is transmitted outside your device.
 
 ## Data Sharing and Disclosure
 
-We do not sell your personal information. We may share your information with:
-- **Service Providers:** Third-party companies that help us operate the App
-- **Legal Requirements:** When required by law or to protect our rights
-- **Business Transfers:** In connection with a merger, sale, or acquisition
+We do NOT collect, share, sell, or transmit any personal information or user data. All app data is stored locally on your device and remains under your control.
+
+We may only disclose information if required by law or legal process.
 
 ## Third-Party Services
 
-Our App may use third-party services that may collect information used to identify you. These may include:
-- Analytics services (e.g., Google Analytics, Firebase)
-- Advertising networks
-- Cloud storage providers
-- Authentication services
-
-Please review the privacy policies of these third-party services for more information.
+Sortify does NOT use any third-party services, analytics, advertising networks, or external data processors. The app operates entirely on your device without any external integrations.
 
 ## Data Security
 
-We implement appropriate technical and organizational security measures to protect your personal information. However, no method of transmission over the internet or electronic storage is 100% secure.
+Since all data is stored locally on your device, the security of your data depends on your device's security measures. We recommend:
+- Using device encryption
+- Setting a secure lock screen
+- Keeping your device's operating system updated
+
+The app does not transmit data over the internet, eliminating risks associated with data transmission.
 
 ## Data Retention
 
-We retain your personal information only for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required by law.
+All app data is stored locally on your device. You can delete this data at any time by:
+- Clearing the app's data through your device settings
+- Uninstalling the application
 
-## Your Rights
+Once deleted, this data cannot be recovered.
 
-Depending on your location, you may have the following rights:
-- Access to your personal information
-- Correction of inaccurate data
-- Deletion of your personal information
-- Objection to or restriction of processing
-- Data portability
-- Withdrawal of consent
+## Your Rights (GDPR Compliance)
 
-To exercise these rights, please contact us at the email address provided below.
+Under the General Data Protection Regulation (GDPR), you have the following rights:
 
-## Children's Privacy
+- **Right to Access:** You have full access to all data stored by the app on your device
+- **Right to Erasure:** You can delete all app data by clearing the app's data or uninstalling the app
+- **Right to Data Portability:** Since data is stored locally on your device, you have complete control over it
+- **Right to Object:** You can stop the app from storing local data by uninstalling it
 
-Our App is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us.
+Since we do not collect or process personal data on external servers, most GDPR requests are automatically satisfied through the app's local-only data storage model.
+
+To exercise these rights or if you have questions, please contact us at the email address provided below.
+
+## Age Restrictions
+
+Sortify is intended for users aged 18 and above. The app is not intended for children under 18. We do not knowingly collect personal information from anyone under 18. If you are a parent or guardian and believe your child has used this app, please contact us.
 
 ## Changes to This Privacy Policy
 
@@ -83,9 +83,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have any questions about this Privacy Policy, please contact us:
 
-**Email:** [Your Contact Email]  
-**Address:** [Your Business Address]
-
----
-
-*This privacy policy template should be customized with your specific information, practices, and legal requirements for your jurisdiction.*
+**Email:** milicam.dev@gmail.com
